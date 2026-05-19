@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shubha-Pallavi
-- 🌱 I’m currently learning Full Stack Web Development
+- 🌱 I’m a Full Stack Web Developer
 - 😄 Pronouns: She/Her
 
 <!---
